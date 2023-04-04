@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "iran-yekan";
+	src: url("~assets/fonts/yekan/eot/iranyekan.eot"); /* IE9 Compat Modes */
+	src: url("~assets/fonts/yekan/eot/iranyekan.eot?#iefix") format("embedded-opentype"),
+		/* IE6-IE8 */ url("~assets/fonts/yekan/woff/iranyekan.woff") format("woff"),
+		/* Modern Browsers */ url("~assets/fonts/yekan/ttf/iranyekan.ttf") format("truetype"),
+		/* Safari, Android, iOS */ url("~assets/fonts/yekan/svg/iranyekan.svg#svgFontName") format("svg"); /* Legacy iOS */
+}
